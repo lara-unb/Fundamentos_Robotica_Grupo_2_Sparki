@@ -1,1 +1,3 @@
-# Fundamentos_Robotica_Grupo_2_Sparki
+# Fundamentos Robótica - Sparki (Grupo 2)
+
+Aluno: Ítalo Costa Cavalcante - Matrícula: 180019261 
