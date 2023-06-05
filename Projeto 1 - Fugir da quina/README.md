@@ -98,5 +98,5 @@ Para esquerda:
  
  ## Referências
  
- - Edge Avoidance. ArcBotics, 2012-2016. Disponível em: <https://arcbotics.com/lessons/edge-avoidance/>. Acesso em 30 de junho de 2023.
-- Infrared Reflectance Sensor. ArcBotics, 2012-2016. Disponível em: <https://arcbotics.com/products/sparki/parts/infrared-reflectance-sensor/>. Acesso em 30 de junho de 2023.
+- Edge Avoidance. ArcBotics, 2012-2016. Disponível em: <https://arcbotics.com/lessons/edge-avoidance/>. Acesso em 30 de maio de 2023.
+- Infrared Reflectance Sensor. ArcBotics, 2012-2016. Disponível em: <https://arcbotics.com/products/sparki/parts/infrared-reflectance-sensor/>. Acesso em 30 de maio de 2023.
