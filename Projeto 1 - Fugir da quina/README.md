@@ -15,6 +15,7 @@ nomeados respectivamente como *Edge Right Sensor* e *Edge Left Sensor*.
 ![Sensores](https://github.com/lara-unb/Fundamentos_Robotica_Grupo_2_Sparki/assets/130604394/c71a82d6-d997-4011-af15-5a0186444d7b)
 
 </div>
+
 ## Funcionamento dos sensores
 
   Os dois sensores do sparki são equipados com um fototransistor e um diodo emissor de luz, ou seja, o objetivo é emitir luz no espectro infravermelho com o LED, enquanto o fototransistor possui sua resistência variada de acordo com a intensidade da luz refletida sobre ele, como demonstrado na figura abaixo. A biblioteca **sparki.h** já faz os devidos cálculos que permitem que essa quantidade seja convertida em um valor inteiro, para que seja utilizado nos códigos. Os valores geralmente variam entre 1000 (valor médio para reflexão em uma folha branca padrão) e 0 (a detecção da borda geralmente retorna abaixo de 200), mas os valores podem variar de acordo com o ambiente.
