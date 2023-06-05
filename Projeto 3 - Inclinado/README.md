@@ -4,11 +4,17 @@
  
 ## Noções Gerais
 
-Nesta lição o objetivo é ensinar o Sparki a andar até o topo de alguma inclinação, até que estabilize. Para isso, o sparki conta com um acelerômetro como apresentado na figura abaixo. O acelerõmetro será usado para indicar a inclinação do sparki em qual direção, e a partir disso tomar as decisões para que avance ou se posicione corretamente. O código original foi adaptado para diminuir a sensibdade à inclinação, pois o código original fazia com que mesmo em cima da mesa continuasse a tentar "subir" como se estivesse inclinado, quando o ideal seria parar.
+Nesta lição o objetivo é ensinar o Sparki a andar até o topo de alguma inclinação, até que estabilize. Para isso, o sparki conta com um acelerômetro como apresentado na figura abaixo. O acelerõmetro será usado para indicar a inclinação do sparki em qual direção, e a partir disso tomar as decisões para que avance ou se posicione corretamente. O código original foi adaptado para diminuir a sensibdade à inclinação, pois o código original fazia com que mesmo em cima da mesa continuasse a tentar "subir" como se estivesse inclinado, quando o ideal seria parar. Para isso o Sparki utiliza de um acelerômetro MEM, posicionado de acorod com a figura abaixo.
+
+<div align="center">
+
+![Accel_Top-300x226](https://github.com/lara-unb/Fundamentos_Robotica_Grupo_2_Sparki/assets/130604394/8c5abafe-be54-4736-889e-190b07ed3488)
+
+</div>
 
 ## Funcionamento do Acelerômetro
 
-O acelerômetro do Sparki conta com estruturas microscópicas que medem a variação angular usando molas. De acordo com a inclinação feita, essas molas vão extender ou comprimir, assim variando a distância entre as placas fixas do capacitor e da mola em si (na figura é apontado como massa).
+Um acelerômetro MEM (MicroElectroMechanical) conta com estruturas microscópicas que medem a variação angular usando molas. De acordo com a inclinação feita, essas molas vão extender ou comprimir, assim variando a distância entre as placas fixas do capacitor e da mola em si (na figura é apontado como massa).
 
 <div align="center">
 
