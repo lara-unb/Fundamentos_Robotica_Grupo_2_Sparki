@@ -149,9 +149,9 @@ Caso nenhuma dessas condições seja detectada, indica que não há linhas em ne
 
 ## Referências
 
-- Line Following. ArcBotics, 2012-2016. Disponível em: https://arcbotics.com/lessons/line-following/. Acesso em 30 de junho de 2023.
+- Line Following. ArcBotics, 2012-2016. Disponível em: https://arcbotics.com/lessons/line-following/. Acesso em 30 de maio de 2023.
 - Infrared Reflectance Sensor. ArcBotics, 2012-2016. Disponível em: https://arcbotics.com/products/sparki/parts/infrared-reflectance-sensor/. Acesso em 30 de junho de 2023.
-- RGB LED. ArcBotics, 2012-2016. Disponível em: https://arcbotics.com/products/sparki/parts/rgb-led/. Acesso em 30 de junho de 2023.
+- RGB LED. ArcBotics, 2012-2016. Disponível em: https://arcbotics.com/products/sparki/parts/rgb-led/. Acesso em 30 de maio de 2023.
 
 ## Link do Vídeo
 
