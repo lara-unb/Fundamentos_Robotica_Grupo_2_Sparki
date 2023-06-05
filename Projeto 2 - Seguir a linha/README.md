@@ -2,7 +2,7 @@
 
 ![Proj2](https://github.com/lara-unb/Fundamentos_Robotica_Grupo_2_Sparki/assets/130604394/189677b6-6a81-4afe-a7dd-97db679f776a)
 
-## Noções gerais
+## Noções Gerais
 
 Nesta lição o objetivo é ensinar o Sparki a seguir a linha que estiver abaixo dele. Para isso, o Sparki conta com cinco sensores infravermelhos em sua parte inferior, como apresentado na figura abaixo. Os dois sensores de canto são utilizados para outra finalidade, portanto serão utilizados apenas os três sensores centrais: o direito, central e o esquerdo, nomeados respectivamente como *Line Right Sensor*, *Center Line Sensor* e *Right Line Sensor*.
 
