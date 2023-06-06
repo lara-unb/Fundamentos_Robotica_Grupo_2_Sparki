@@ -44,7 +44,6 @@ void setup()
 }
 
 void loop() {
-    // Aparentemente a sensibilidade do sensor direito é maior do que o central, que é maior que o esquerdo, portanto serão feitas compensações:
   int left   = sparki.lightLeft();   // measure the left light sensor
   int center = sparki.lightCenter(); // measure the center light sensor
   int right  = sparki.lightRight();
