@@ -4,7 +4,7 @@
  
 ## Noções Gerais
 
-Nesta lição o objetivo é ensinar o Sparki a andar até o topo de alguma inclinação, até que estabilize. Para isso, o sparki conta com um acelerômetro como apresentado na figura abaixo. O acelerõmetro será usado para indicar a inclinação do sparki em qual direção, e a partir disso tomar as decisões para que avance ou se posicione corretamente. O código original foi adaptado para diminuir a sensibdade à inclinação, pois o código original fazia com que mesmo em cima da mesa continuasse a tentar "subir" como se estivesse inclinado, quando o ideal seria parar. Para isso o Sparki utiliza de um acelerômetro MEM, posicionado de acorod com a figura abaixo.
+Nesta lição o objetivo é ensinar o Sparki a andar até o topo de alguma inclinação, até que estabilize. Para isso, o sparki conta com um acelerômetro como apresentado na figura abaixo. O acelerômetro será usado para indicar a inclinação do sparki em qual direção, e a partir disso tomar as decisões para que avance ou se posicione corretamente. O código original foi adaptado para diminuir a sensibdade à inclinação, pois o código original fazia com que mesmo em cima da mesa continuasse a tentar "subir" como se estivesse inclinado, quando o ideal seria parar. Para isso o Sparki utiliza de um acelerômetro MEM, posicionado de acorod com a figura abaixo.
 
 <div align="center">
 
